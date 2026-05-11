@@ -6,17 +6,18 @@
 ---
 
 ## 📊 GitHub Stats
-![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhannd2006&show_icons=true&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nhannd2006&theme=tokyo-night)
+
+---
+
+## 💻 Top Languages
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nhannd2006&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 
 ---
 
 ## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=nhannd2006&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhannd2006&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=nhannd2006&theme=tokyonight)
 
 ---
 
