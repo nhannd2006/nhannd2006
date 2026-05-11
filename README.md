@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dang Nhan
+# Hi there 👋 I'm Dang Nhan .^.
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=nhannd2006&color=blue)
@@ -27,4 +27,4 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/nhannd2006
+- Facebook: https://www.facebook.com/ndnhan2006
