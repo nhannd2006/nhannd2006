@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:16213e&height=200&section=header&text=Dang%20Nhan&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Science%20Student&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:16213e&height=200&section=header&text=Dang%20Nhan&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Science%20Undergraduate&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nhannd2006&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
