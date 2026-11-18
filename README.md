@@ -13,7 +13,7 @@
 <td width="50%" valign="top">
 
 #### 👋 About
-Undergraduate student at **HCMUS**, studying AI and data science. I enjoy the mathematics behind models and working with data end to end: exploring it, building machine learning models, and turning the results into clear, data-driven decisions.
+Undergraduate student at **HCMUS**, studying AI and data science. I enjoy the mathematics behind models and like working with data end to end: collecting and cleaning it, exploring and visualising it, finding patterns, building and evaluating machine learning models, and turning the results into clear, data-driven decisions.
 
 #### 🧰 Tech
 <div align="center">
@@ -55,8 +55,8 @@ Data Science · Data Analysis · Machine Learning · Deep Learning · AI · LLMs
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=nhannd2006&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6&text_color=C9D1D9&ring_color=22D3EE" width="100%" />
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhannd2006/nhannd2006/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nhannd2006/nhannd2006/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nhannd2006/nhannd2006/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/nhannd2006/nhannd2006/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
